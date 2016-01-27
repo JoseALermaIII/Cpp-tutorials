@@ -7,7 +7,7 @@ Input filtering to prevent (near) infinite loops.
 
 Author:   J. Lerma
 Date:     October 29, 2012
-/*
+*/
 // INCLUDES
 #include "funcs.hpp"
 
