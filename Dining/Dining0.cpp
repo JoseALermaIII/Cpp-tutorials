@@ -2,11 +2,10 @@
 Dining0.cpp
 
 Prototype using coin flips to determine which hall goes first.
-Then, more coin flips to determine which section goes first for 2 element arrays.
-Finally, a similar random selection for 3 element arrays.
+Then, more coin flips to determine which section goes first.
 
 Author:   J. Lerma
-Date:     September 8, 2012
+Date:     July 8, 2012
 */
 // INCLUDES
 #include <iostream>
