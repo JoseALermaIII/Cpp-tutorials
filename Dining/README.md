@@ -8,3 +8,8 @@ For fairness, ideally no group would be at the same spot on the list from one da
 Nor would one group be first from one day to the next.
 
 At first, it seemed logical to just randomly assign the groups each day in a week; however, the project proved that randomness was not what was needed.
+
+Final production version is not included. There is no point in showing how to break randomness.
+
+# TODO
+Add GUI!
