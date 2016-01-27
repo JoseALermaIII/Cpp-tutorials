@@ -1,5 +1,5 @@
 /*
-Dining1.cpp
+Dining3.cpp
 
 Randomly arrange contents of 4 defined arrays into one empty array.
 
