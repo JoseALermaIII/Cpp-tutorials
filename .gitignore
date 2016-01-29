@@ -3,6 +3,11 @@
 *.depend
 *.layout
 
+# Visual Studio files
+*.workspace
+*.dev
+*.win
+
 # Compiled Object files
 *.slo
 *.lo
