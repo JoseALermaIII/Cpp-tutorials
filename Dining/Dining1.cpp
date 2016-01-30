@@ -7,7 +7,7 @@ Finally, similar random pattern to select order of section.
 
 Author:   J. Lerma
 Date:     July 12, 2012
-/*
+*/
 // INCLUDES
 #include <iostream>
 #include <cstring>
